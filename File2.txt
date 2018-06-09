@@ -1,2 +1,6 @@
 new tex file to add to git
 adding line
+
+this is another line 
+
+and another
